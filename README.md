@@ -44,3 +44,18 @@ $ `python3 add2group.py members.csv`
 
 ## Follow Me on:
 <a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a> <a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a> <a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a> <a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<details><summary><b>Deploy to Heroku</b></summary>
+
+<p>
+
+<br>
+
+<a href="https://heroku.com/deploy?template=https://github.com/AnnaGophane/TelegramScraper">
+
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+</a>
+
+</p>
+
+</details>
